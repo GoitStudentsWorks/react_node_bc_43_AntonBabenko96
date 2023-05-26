@@ -26,7 +26,7 @@ Notify.init({
 export const App = () => {
   return (
     <Provider store={store}>
-      <BrowserRouter basename="/react-node-team-app">
+      <BrowserRouter basename="/react_node_bc_43_AntonBabenko96">
         <AuthLayout>
           <UserRoutes />
         </AuthLayout>
