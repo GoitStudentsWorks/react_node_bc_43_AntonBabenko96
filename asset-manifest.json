@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_bc_43_AntonBabenko96/static/css/main.c95c2938.css",
-    "main.js": "/react_node_bc_43_AntonBabenko96/static/js/main.f7d4a7b3.js",
+    "main.js": "/react_node_bc_43_AntonBabenko96/static/js/main.b476f25e.js",
     "static/css/466.25ee96c7.chunk.css": "/react_node_bc_43_AntonBabenko96/static/css/466.25ee96c7.chunk.css",
     "static/js/466.e48f9efe.chunk.js": "/react_node_bc_43_AntonBabenko96/static/js/466.e48f9efe.chunk.js",
     "static/css/920.fca43960.chunk.css": "/react_node_bc_43_AntonBabenko96/static/css/920.fca43960.chunk.css",
@@ -55,7 +55,7 @@
     "static/media/arrow-left.svg": "/react_node_bc_43_AntonBabenko96/static/media/arrow-left.28e54c68d22316b0adad105367f7e8e0.svg",
     "static/media/shape-1.svg": "/react_node_bc_43_AntonBabenko96/static/media/shape-1.405ea4902fef86a529aa.svg",
     "main.c95c2938.css.map": "/react_node_bc_43_AntonBabenko96/static/css/main.c95c2938.css.map",
-    "main.f7d4a7b3.js.map": "/react_node_bc_43_AntonBabenko96/static/js/main.f7d4a7b3.js.map",
+    "main.b476f25e.js.map": "/react_node_bc_43_AntonBabenko96/static/js/main.b476f25e.js.map",
     "466.25ee96c7.chunk.css.map": "/react_node_bc_43_AntonBabenko96/static/css/466.25ee96c7.chunk.css.map",
     "466.e48f9efe.chunk.js.map": "/react_node_bc_43_AntonBabenko96/static/js/466.e48f9efe.chunk.js.map",
     "920.fca43960.chunk.css.map": "/react_node_bc_43_AntonBabenko96/static/css/920.fca43960.chunk.css.map",
@@ -83,6 +83,6 @@
   },
   "entrypoints": [
     "static/css/main.c95c2938.css",
-    "static/js/main.f7d4a7b3.js"
+    "static/js/main.b476f25e.js"
   ]
 }
